@@ -1,4 +1,4 @@
-# Guess_Number_Game
+//Guess_Number_Game
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
